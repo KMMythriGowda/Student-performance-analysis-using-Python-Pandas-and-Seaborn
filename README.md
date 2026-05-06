@@ -25,6 +25,17 @@ The dataset contains **1000 student records** with **8 features**, including:
 This dataset is widely used for understanding how demographic and socio-economic factors influence academic performance.
 
 ---
+## ▶️ How to Run
+
+### Option 1: Run on Google Colab
+1. Click the "Open in Colab" button above  
+2. Run all cells  
+
+### Option 2: Run Locally
+1. Download the repository  
+2. Install dependencies:
+   pip install pandas numpy matplotlib seaborn  
+3. Open the notebook file  
 
 ## 🛠️ Technology Stack
 - **Programming Language:** Python  
