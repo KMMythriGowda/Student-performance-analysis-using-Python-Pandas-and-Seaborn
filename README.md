@@ -35,7 +35,9 @@ This dataset is widely used for understanding how demographic and socio-economic
 1. Download the repository  
 2. Install dependencies:
    pip install pandas numpy matplotlib seaborn  
-3. Open the notebook file  
+3. Open the notebook file
+
+---
 
 ## 🛠️ Technology Stack
 - **Programming Language:** Python  
