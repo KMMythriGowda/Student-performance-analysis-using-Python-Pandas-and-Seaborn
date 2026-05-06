@@ -72,13 +72,13 @@ The analysis highlights the importance of preparation and background factors in 
 ---
 
 ## 📁 Repository Contents
-- `data_cleaning_visualization.ipynb` – Jupyter Notebook with complete analysis  
+- `data_cleaning_visualization.ipynb` – Colab Notebook with complete analysis  
 - `exams.csv` – Dataset used for the project  
 
 ---
 
 ## 👤 Author
-**Mythri**  
+**K M Mythri Gowda**  
 Aspiring Data Analyst | Python & Data Science Enthusiast  
 
 ---
