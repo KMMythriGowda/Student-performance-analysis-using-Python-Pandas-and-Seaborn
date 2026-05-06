@@ -1,5 +1,7 @@
 # 📊 Data Cleaning & Visualization Project
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KMMythriGowda/Student-performance-analysis-using-Python-Pandas-and-Seaborn/blob/main/data_cleaning_visualization.ipynb)
+
 ## 📌 Project Overview
 This project focuses on cleaning, processing, and analyzing a student performance dataset to extract meaningful insights using data visualization techniques. The objective is to demonstrate core data analysis skills including data preprocessing, exploratory data analysis (EDA), and storytelling through visualizations.
 
